@@ -8,7 +8,7 @@
 - Red 
 - Yellow
 
-[Download]()
+[Download](https://github.com/CapOliveiraBr/Simple-Colors-Theme/archive/master.zip)
 
 <img src="https://i.imgur.com/IJj9zYI.gif">
 
