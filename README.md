@@ -1,4 +1,4 @@
-# Simple Colors Theme
+# 🎨 Simple Colors Theme
 
 ### The pack currently includes the following colors: 
 
