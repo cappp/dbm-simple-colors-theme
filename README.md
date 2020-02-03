@@ -1,5 +1,7 @@
 # 🎨 Simple Colors Theme
 
+![](https://img.shields.io/github/license/CapOliveiraBr/Simple-Colors-Theme?style=for-the-badge)
+
 Simple DBM theme pack with beautiful colors.
 
 > [**Download**](https://github.com/CapOliveiraBr/Simple-Colors-Theme/archive/master.zip)
