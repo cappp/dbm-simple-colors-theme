@@ -1,14 +1,16 @@
 # 🎨 Simple Colors Theme
 
-### The pack currently includes the following colors: 
+Simple DBM theme pack with beautiful colors.
+
+[**Download**](https://github.com/CapOliveiraBr/Simple-Colors-Theme/archive/master.zip)
+
+## Colors 
 
 - Orange
 - Pink
 - Purple 
 - Red 
 - Yellow
-
-> [**Download**](https://github.com/CapOliveiraBr/Simple-Colors-Theme/archive/master.zip)
 
 <img src="https://i.imgur.com/IJj9zYI.gif">
 
