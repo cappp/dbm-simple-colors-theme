@@ -14,7 +14,7 @@ Simple DBM theme pack with beautiful colors.
 
 <img src="https://i.imgur.com/IJj9zYI.gif">
 
-**Note: blue and green color themes already exist as standard in the program:**
+**Note:** blue and green color themes already exist as standard in the program:
 
 - Default = Blue
 - Alternative = Green
