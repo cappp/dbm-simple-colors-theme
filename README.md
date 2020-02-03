@@ -2,7 +2,7 @@
 
 Simple DBM theme pack with beautiful colors.
 
-[**Download**](https://github.com/CapOliveiraBr/Simple-Colors-Theme/archive/master.zip)
+> [**Download**](https://github.com/CapOliveiraBr/Simple-Colors-Theme/archive/master.zip)
 
 ## Colors 
 
