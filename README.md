@@ -1,4 +1,4 @@
-# 🎨 Simple Colors Theme
+# 🎨 DBM Simple Colors Theme
 
 ![](https://img.shields.io/github/license/CapOliveiraBr/Simple-Colors-Theme?style=for-the-badge)
 
