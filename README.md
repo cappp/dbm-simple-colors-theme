@@ -14,7 +14,7 @@ Simple DBM theme pack with beautiful colors.
 - Red 
 - Yellow
 
-<img src="https://i.imgur.com/IJj9zYI.gif">
+![](https://i.imgur.com/IJj9zYI.gif)
 
 **Note:** blue and green color themes already exist as standard in the program:
 
